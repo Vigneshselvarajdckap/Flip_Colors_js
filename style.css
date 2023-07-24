@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1 {
+    color: black;
+    background-color: white;
+    width: 500px;
+    text-align: center;
+}
+
+h1.colorName {
+    text-align: center;
+    margin-top: 175px;
+    margin-left: 445px;
+}
+
+.navibar {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    text-align: center;
+    height: 60px;
+    box-shadow: 0px 0px 5px 0px;
+}
+
+a {
+    display: inline-block;
+    margin: 12px 119px 16px 80px;
+}
+h3{
+    font-size: 220%;
+    padding-top: 12px;
+    color: black;
+    margin-left: 35px;
+}
+a.hex {
+    color: black;
+    font-size: larger;
+    margin-top: 12px;
+    font-weight: 700;
+    position: relative;
+    text-decoration: none;
+    left: 460px;
+    top: 5px;
+}
+
+a.hexe {
+    color: black;
+    font-size: larger;
+    margin-top: 12px;
+    font-weight: 700;
+    position: relative;
+    text-decoration: none;
+    left: 60px;
+    top: 5px;
+}
+a.sime{
+color: black;
+font-size: larger;
+margin-top: 12px;
+font-weight: 700;
+text-decoration: none;
+position: relative;
+left: 510px;
+top: 5px;
+}
+
+a.sim {
+    color: black;
+    font-size: larger;
+    margin-top: 12px;
+    font-weight: 700;
+    text-decoration: none;
+    position: relative;
+    left: 40px;
+    top: 5px;
+}
+
+.middleContainer {
+    margin-left: 33%;
+    margin-top: 240px;
+}
+
+.NxmiddleContainer {
+    margin-left: -53px;
+    margin-top: 240px;
+}
+
+button.button {
+    margin-left: 185px;
+    margin-top: 40px;
+    border: 0;
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 100px;
+    font-weight: 700;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button.buttons {
+    margin-left: 635px;
+    margin-top: 40px;
+    border: 0;
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 100px;
+    font-weight: 700;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover{
+background-color:rgb(61, 60, 60) ;
+}
+
+
